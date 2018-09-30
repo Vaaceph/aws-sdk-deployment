@@ -10,3 +10,6 @@ Then, just run command `node deployment.js`
 
 # What it does?
 It creates lauch configuration, auto scaling group, scaling policies and CloudWatch.
+
+# UserData
+The user data can use any node project.
