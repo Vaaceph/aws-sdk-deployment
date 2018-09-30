@@ -6,7 +6,7 @@ You need to add your own config.json file which includes your accessKeyId, secre
 
 # To run this script
 First you need to run npm install to install dependencies.
-Then, just run command node deployment.js
+Then, just run command `node deployment.js`
 
 # What it does?
 It creates lauch configuration, auto scaling group, scaling policies and CloudWatch.
